@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728293538 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t01l06\main.cpp
+	<iostream>
+	<Counter.h>
+
+1728293459 c:\users\iqura\desktop\2-1\cse4302\220041103_t01l06\include\counter.h
+
+1728293459 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t01l06\src\counter.cpp
+	"Counter.h"
+	<iostream>
+

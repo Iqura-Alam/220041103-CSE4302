@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1728369751 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t03l06\main.cpp
+	<iostream>
+	"Celcius.h"
+	"Farenheit.h"
+	"Kelvin.h"
+
+1728369433 c:\users\iqura\desktop\2-1\cse4302\220041103_t03l06\include\celcius.h
+
+1728369538 c:\users\iqura\desktop\2-1\cse4302\220041103_t03l06\include\farenheit.h
+
+1728369822 c:\users\iqura\desktop\2-1\cse4302\220041103_t03l06\include\kelvin.h
+	<iostream>
+
+1728370051 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t03l06\src\celcius.cpp
+	"Celcius.h"
+	"Farenheit.h"
+	"Kelvin.h"
+	<iostream>
+
+1728370069 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t03l06\src\farenheit.cpp
+	"Farenheit.h"
+	"Celcius.h"
+	"Kelvin.h"
+	<iostream>
+
+1728370119 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t03l06\src\kelvin.cpp
+	"Kelvin.h"
+	"Celcius.h"
+	"Farenheit.h"
+	<iostream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1728295867 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t02l06\main.cpp
+	<iostream>
+	"Coordinate.h"
+	<cmath>
+
+1728295897 c:\users\iqura\desktop\2-1\cse4302\220041103_t02l06\include\coordinate.h
+
+1728295918 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t02l06\src\coordinate.cpp
+	"Coordinate.h"
+	<iostream>
+	<cmath>
+

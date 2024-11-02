@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1727807063 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t02l05\src\employee.cpp
+	"Employee.h"
+	<iostream>
+	<string>
+
+1727807078 c:\users\iqura\desktop\2-1\cse4302\220041103_t02l05\include\employee.h
+	<string>
+	<iostream>
+
+1727692508 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t02l05\main.cpp
+	<iostream>
+	<Employee.h>
+	<string>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1727805347 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t01l05\main.cpp
+	<iostream>
+	<SavingsAccount.h>
+
+1727805496 c:\users\iqura\desktop\2-1\cse4302\220041103_t01l05\include\savingsaccount.h
+	<iostream>
+	<string>
+
+1727805930 source:c:\users\iqura\desktop\2-1\cse4302\220041103_t01l05\src\savingsaccount.cpp
+	"SavingsAccount.h"
+	<iostream>
+	<string>
+
